@@ -1,8 +1,5 @@
 """
 @Author: Mohamed Waleed Fathy
-
-@Template: Udacity
-
 @Name of Project: Bike Share Data Analysis App
 """
 
